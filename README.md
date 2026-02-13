@@ -6,7 +6,7 @@ This interactive dashboard provides real-time insights into Grace Store's busine
 
 
 ![Gracestores](https://github.com/user-attachments/assets/57a42e1f-0c65-4f03-93b7-13f97aa579ab)
-![Gracestores](https://github.com/user-attachments/assets/57a42e1f-0c65-4f03-93b7-13f97aa579ab)
+
 
 
 Key Metrics
