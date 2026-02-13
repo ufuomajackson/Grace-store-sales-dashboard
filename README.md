@@ -67,6 +67,7 @@ The dashboard reveals:
 
 👨‍💻 Author
 Ufuoma Jackson
+jacksonu688@gmail.com
 ________________________________________
 This dashboard transforms raw sales data into actionable business insights, empowering Grace Store to make informed decisions and drive growth.
 
