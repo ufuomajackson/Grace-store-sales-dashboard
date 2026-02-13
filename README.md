@@ -4,6 +4,11 @@ Grace Store Sales and Profit Dashboard
 📊 Project Overview
 This interactive dashboard provides real-time insights into Grace Store's business operations, enabling data-driven decision-making through visualizations of key performance metrics.
 
+
+![Gracestores](https://github.com/user-attachments/assets/57a42e1f-0c65-4f03-93b7-13f97aa579ab)
+![Gracestores](https://github.com/user-attachments/assets/57a42e1f-0c65-4f03-93b7-13f97aa579ab)
+
+
 Key Metrics
 •	Total Sales Tracking: Monitor overall revenue performance ($3,365,549)
 •	Cost Analysis: Track total item costs and profit margins ($316,401)
